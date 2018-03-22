@@ -1,0 +1,54 @@
+{
+  "career":{
+  "info":"To work in a meaningful and challenging position that allows me to develop myself as Network Administrator and have the scope for advancement."
+},
+"education":[
+  {
+    "degree":"S.S.C",
+    "school":"Z.P.High school.",
+    "data":["2013","70%"]
+  },
+  {
+    "degree":"Inter/diploma",
+    "school":"C.V.Raman Junior College",
+    "data":["2015","75%"]
+  },
+  {
+    "degree":"B-Tech",
+    "school":"G.Pulliah college of Engineering and Technology.",
+    "data":["2015-2019","65%"]
+
+  }
+],
+"skills":[
+  {
+    "name":"Languages",
+    "info":["R","C#","Java","Python","C++","C","php."]
+
+  },
+  {
+    "name":"Operating System",
+    "info":["win-10","fedora","redHat","ubuntu."]
+
+  },
+  {
+    "name":"Data Bases",
+    "info":["Mysql","mongoDB","Oracle","PDO."]
+
+  },
+  {
+    "name":"Web Technologies",
+    "info":["html","javaScript ","CSS."]
+    },
+  {
+    "name":"Frameworks",
+    "info":[".Net","Bootstrap","CodeIgniter."]
+
+  },
+  {
+    "name":"Libraries",
+    "info":["Jquery."]
+
+  }
+]
+}
